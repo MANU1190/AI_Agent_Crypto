@@ -1,2 +1,5 @@
-# AI_Agent_Crypto
-In this i have tried to develop an Agent that can fetch the cryptocurrency using the tool
+what is missing?
+1) Context remember
+2) Transalation tool 
+3) ReACT part 
+4) API handling
